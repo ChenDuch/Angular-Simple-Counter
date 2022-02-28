@@ -1,0 +1,15 @@
+button {
+  background-color: salmon;
+  border-radius: 100%;
+  border: 1px black solid;
+  color: azure;
+}
+div {
+  display: flex;
+  margin-left: 150px;
+}
+h2 {
+  font-size: 50px;
+  margin: 10px;
+  color: rgb(110, 106, 106);
+}
